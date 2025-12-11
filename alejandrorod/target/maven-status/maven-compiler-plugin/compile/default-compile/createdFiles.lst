@@ -1,0 +1,10 @@
+es\etg\ad\dam\InstitutoDAOFactory.class
+es\etg\ad\dam\Modo.class
+es\etg\ad\dam\mybasedatos.db
+es\etg\ad\dam\InstitutoDAO.class
+es\etg\ad\dam\InstitutoOracleXeDAOImp.class
+es\etg\ad\dam\InstitutoMockDAOImp.class
+es\etg\ad\dam\InstitutoSQLiteDAOImp.class
+es\etg\ad\dam\Alumno.class
+es\etg\ad\dam\Main.class
+es\etg\ad\dam\ClubFutbol.class
