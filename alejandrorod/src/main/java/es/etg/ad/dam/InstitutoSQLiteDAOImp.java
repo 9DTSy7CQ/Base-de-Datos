@@ -221,6 +221,7 @@ public class InstitutoSQLiteDAOImp implements InstitutoDAO {
         }
     }
 
+    // ===== Método para precargar datos =====
     public void insertarDatosIniciales() {
         insertarAlumno(new Alumno(0, "Mark", "Evans", 22));
         insertarAlumno(new Alumno(0, "Axel", "Blaze", 22));
